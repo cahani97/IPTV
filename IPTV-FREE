@@ -1,0 +1,904 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1,Fox Sports 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/146.ts
+#EXTINF:-1,Fox Sports 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/145.ts
+#EXTINF:-1,Fox Sports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/144.ts
+#EXTINF:-1,Fox Sports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/143.ts
+#EXTINF:-1,SporTV HD
+http://maxptv.ddns.net:25461/live/MA020/0706/48.ts
+#EXTINF:-1,SporTV SD
+http://maxptv.ddns.net:25461/live/MA020/0706/47.ts
+#EXTINF:-1,SporTV2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/46.ts
+#EXTINF:-1,SporTV2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/45.ts
+#EXTINF:-1,SporTV3 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/44.ts
+#EXTINF:-1,SporTV3 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/43.ts
+
+#EXTINF:-1,UK_eir Sport 1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/4690
+#EXTINF:-1,Uk_premiersportHD
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/92
+#EXTINF:-1,Uk_eirsp2/prem.sportHD(L)
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/4691
+#EXTINF:-1,Uk_btsport1
+
+
+
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/86
+#EXTINF:-1,|[UK] BT Sport 1HD (L)
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/4694
+#EXTINF:-1,Uk_btsport2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/87
+#EXTINF:-1,[UK] Bt Sport 2 HD (L)
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/4693
+#EXTINF:-1,Uk_btsportHD3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/126
+#EXTINF:-1,[UK] BT Sport 3 HD (L)
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/4692
+#EXTINF:-1,Uk_btsportexra
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/127
+#EXTINF:-1,Uk_bt-sport-espn-HD
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/93
+#EXTINF:-1,Uk_F1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/88
+#EXTINF:-1,Uk_Eurosport1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/94
+#EXTINF:-1,UK_skysports-boxoffice
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/4688
+#EXTINF:-1,Uk_Eurosport2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/95
+#EXTINF:-1,Uk_skysports-box-office
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/4687
+#EXTINF:-1,Uk_boxnation
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/91
+#EXTINF:-1,usa_TSNsport1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/426
+#EXTINF:-1,usa_TSNsport2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/425
+#EXTINF:-1,usa_TSNsport3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/424
+#EXTINF:-1,usa_TSNsport4
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/423
+#EXTINF:-1,usa_TSNsport5
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/427
+#EXTINF:-1,Fr_Rmcsport1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/422
+#EXTINF:-1,Fr_Rmcsport2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/421
+#EXTINF:-1,Fr_Rmcsport3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/420
+#EXTINF:-1,Pt_SportTv1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/303
+#EXTINF:-1,Pt_SportTv2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/302
+#EXTINF:-1,Pt_SportTv3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/304
+#EXTINF:-1,PT_SPORTTV4
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/885
+#EXTINF:-1,PT_SPORTTV5
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/886
+#EXTINF:-1,Pt_Sporting tv
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/887
+#EXTINF:-1,PT_BENFICAtv1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/892
+#EXTINF:-1,Fr_Beinsport15
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/165
+#EXTINF:-1,Ar_MBCProSport2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/166
+#EXTINF:-1,Ar_MBCProSport3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/167
+#EXTINF:-1,Ar_BeinSport1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/182
+#EXTINF:-1,Ar_BeinSport2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/181
+#EXTINF:-1,Ar_BeinSport3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/180
+#EXTINF:-1,Ar_BeinSport4
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/179
+#EXTINF:-1,Ar_BeinSport5
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/178
+#EXTINF:-1,Ar_BeinSport6
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/177
+#EXTINF:-1,Ar_BeinSport7
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/176
+#EXTINF:-1,Ar_BeinSport8
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/175
+#EXTINF:-1,Ar_BeinSport9
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/174
+#EXTINF:-1,Ar_BeinSport10
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/173
+#EXTINF:-1,Ar_BeinSport11
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/172
+#EXTINF:-1,Ar_BeinSport12
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/171
+#EXTINF:-1,Ar_BeinSport 11 HD
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/170
+#EXTINF:-1,Ar_BeinSport-es
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/169
+#EXTINF:-1,Fr_Beinsport14
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/168
+#EXTINF:-1,Scand_viasatsport
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/725
+#EXTINF:-1,Scand_tv3sport1
+
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/714
+#EXTINF:-1,Scand_tv3sport-2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/715
+#EXTINF:-1,Nor_TV2-SportPremium3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/3473
+#EXTINF:-1,Nor_TV2-SportPremium2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/3474
+#EXTINF:-1,Nor_TV2-SportPremium1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/3475
+#EXTINF:-1,Exyu_SportKlub1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/312
+#EXTINF:-1,EXYU_SportKlub2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/311
+#EXTINF:-1,EXYU_SportKlub3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/310
+#EXTINF:-1,EXYU_SportKlub4
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/1981
+#EXTINF:-1,EXYU_SportKlub5
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/1982
+#EXTINF:-1,Alb_SuperSport1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/309
+#EXTINF:-1,Alb_SuperSport2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/308
+#EXTINF:-1,Alb_SuperSport3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/307
+#EXTINF:-1,Alb_SuperSport4
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/306
+#EXTINF:-1,Exyu_ArenaSport1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/329
+#EXTINF:-1,Exyu_ArenaSport2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/330
+#EXTINF:-1,Exyu_ArenaSport3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/331
+#EXTINF:-1,Exyu_ArenaSport4
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/332
+#EXTINF:-1,Exyu_ArenaSport5
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/313
+#EXTINF:-1,Fr_foot+
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/613
+#EXTINF:-1,Fr_Eurosport
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/619
+#EXTINF:-1,Fr_Canal+sport
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/609
+#EXTINF:-1,FR_Beinsport1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/391
+#EXTINF:-1,FR_BeinSport2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/390
+#EXTINF:-1,FR_BeinSport3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/389
+#EXTINF:-1,NL_FoxSport-HD1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/195
+#EXTINF:-1,NL_FoxSport-HD2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/194
+#EXTINF:-1,NL_FoxSport-HD3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/193
+#EXTINF:-1,NL_FoxSport-HD4
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/192
+#EXTINF:-1,NL_FoxSport-HD5
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/191
+#EXTINF:-1,NL_Voetbal
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/202
+#EXTINF:-1,NL_SportSelect1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/203
+#EXTINF:-1,NL_sportracing
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/431
+#EXTINF:-1,NL_Golf
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/190
+#EXTINF:-1,IT_SkySport1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/276
+#EXTINF:-1,IT_SkySport2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/277
+#EXTINF:-1,IT_SkySport3
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/278
+#EXTINF:-1,IT_SkySuperCalcio
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/381
+#EXTINF:-1,IT_SkyCalcio1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/379
+#EXTINF:-1,IT_SkyCalcio2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/380
+#EXTINF:-1,IT_PremiumCalcio
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/280
+#EXTINF:-1,IT_PremiumCalcio1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/382
+#EXTINF:-1,IT_PremiumCalcio2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/383
+#EXTINF:-1,IT_sportitalia
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/388
+#EXTINF:-1,IT_SkySport24
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/279
+#EXTINF:-1,IT_SuperTennisHd
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/375
+#EXTINF:-1,IT_Eurosport1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/373
+#EXTINF:-1,IT_Eurosport2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/374
+#EXTINF:-1,IT_RaiSport1
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/405
+#EXTINF:-1,IT_RaiSport2
+http://eurocast1.net:8000/HouThyF@_IPTV/gJZeFSDlz6/406
+
+#EXTINF:-1,AR: FOX SPORTS 1 FULL HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7509
+#EXTINF:-1,AR: TyC_Sports
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7474
+#EXTINF:-1,BEIN SPORTS LA LIGA (CP)
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/6892
+#EXTINF:-1,DIRECTV SPORT 2 (RO)
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/6986
+#EXTINF:-1,DIRECTV SPORTS 1 (PM)
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/6926
+#EXTINF:-1,FOX SPORTS 1 MX (MX)
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7539
+#EXTINF:-1,FOX SPORTS 3 MX (MX)
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7683
+#EXTINF:-1,US: FIGHT BOX
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7697
+#EXTINF:-1,US: NFL Network HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7699
+#EXTINF:-1,US: WWE HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7704
+#EXTINF:-1,MOVISTAR F1 (CO)
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/7652
+#EXTINF:-1,FOX SPORTS 1 MX FULL HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8018
+#EXTINF:-1,FOX SPORTS 2 MX 1080
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8023
+#EXTINF:-1,FOX SPORTS 3 FULL HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8024
+#EXTINF:-1,AR: FOX SPORTS 3 FULL HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8016
+#EXTINF:-1,BEIN SPORTS 1HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8926
+#EXTINF:-1,BEIN SPORTS 2HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8927
+#EXTINF:-1,BEIN SPORTS 3HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8928
+#EXTINF:-1,BEIN SPORTS 4HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8929
+#EXTINF:-1,BEIN SPORTS 5HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8930
+#EXTINF:-1,BEIN SPORTS 6HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8931
+#EXTINF:-1,BEIN SPORTS 7HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8932
+#EXTINF:-1,BEIN SPORTS 8HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8933
+#EXTINF:-1,BEIN SPORTS 9HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8934
+#EXTINF:-1,BEIN SPORTS 10HD
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/8935
+#EXTINF:-1,Italia | Sky Sports 1
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/9133
+#EXTINF:-1,Italia | Sky Sports 2
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/9132
+#EXTINF:-1,Italia | Sky Sports 24
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/9127
+#EXTINF:-1,Italia | Sky Sports 3
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/9131
+#EXTINF:-1,Italia | Sky Sports 4
+http://app.cableplay.net:25461/Ariel_Zaritzky/NxAJ8tFqCz/9130
+
+#EXTINF:-1,BEIN SPORTS1 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/55.m3u8
+#EXTINF:-1,BEIN SPORTS2 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/41.m3u8
+#EXTINF:-1,BEIN SPORTS3 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/39.m3u8
+#EXTINF:-1,BEIN SPORTS4 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/37.m3u8
+#EXTINF:-1,BEIN SPORTS5 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/35.m3u8
+#EXTINF:-1,BEIN SPORTS6 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/33.m3u8
+#EXTINF:-1,BEIN SPORTS7 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/31.m3u8
+#EXTINF:-1,BEIN SPORTS8 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/29.m3u8
+#EXTINF:-1,BEIN SPORTS9 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/27.m3u8
+#EXTINF:-1,BEIN SPORTS10 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/53.m3u8
+#EXTINF:-1,BEIN SPORTS 11 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/51.m3u8
+#EXTINF:-1,BEIN SPORTS 12 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/49.m3u8
+#EXTINF:-1,BEIN SPORTS FR 1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/47.m3u8
+#EXTINF:-1,BEIN SPORTS FR 2
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/45.m3u8
+#EXTINF:-1,BEIN SPORTS FR 3
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/43.m3u8
+#EXTINF:-1,BEIN SPORTS 1 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/54.m3u8
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/40.m3u8
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/38.m3u8
+#EXTINF:-1,BEIN SPORTS 4 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/36.m3u8
+#EXTINF:-1,BEIN SPORTS 5 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/34.m3u8
+#EXTINF:-1,BEIN SPORTS 6 SD 
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/32.m3u8
+#EXTINF:-1,BEIN SPORTS 7 SD 
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/30.m3u8
+#EXTINF:-1,BEIN SPORTS 8 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/28.m3u8
+#EXTINF:-1,BEIN SPORTS 9 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/26.m3u8
+#EXTINF:-1,BEIN SPORTS 10 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/52.m3u8
+#EXTINF:-1,BEIN SPORTS 11 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/50.m3u8
+#EXTINF:-1,BEIN SPORTS 12 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/48.m3u8
+#EXTINF:-1,BEIN SPORTS 13 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/46.m3u8
+#EXTINF:-1,BEIN SPORTS 14 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/44.m3u8
+#EXTINF:-1,BEIN SPORTS 15 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/42.m3u8
+#EXTINF:-1,Abu Dhabi Sport 3
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4022.m3u8
+#EXTINF:-1,Abu Dhabi Sport 4
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4023.m3u8
+#EXTINF:-1,Abu Dhabi Sport 5
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4024.m3u8
+#EXTINF:-1,Infosport
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4262.m3u8
+#EXTINF:-1,SFR Sport 1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4268.m3u8
+#EXTINF:-1,SFR Sport 2
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4269.m3u8
+#EXTINF:-1,AB Moteur
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4274.m3u8
+#EXTINF:-1,Equidia Life
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4255.m3u8
+#EXTINF:-1,Eurosport 2 FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4257.m3u8
+#EXTINF:-1,Extreme Sport FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4259.m3u8
+#EXTINF:-1,Golf Channel
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4261.m3u8
+#EXTINF:-1,Golf+ Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4260.m3u8
+
+#EXTINF:-1,SPO: Eurosport News (UK)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/3513
+#EXTINF:-1,SPO: FOX Sports 2 (UK)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/3516
+#EXTINF:-1,SPO: Eurosport 2 (UK)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/3515
+#EXTINF:-1,SPO: Eurosport 1 (UK)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/3514
+#EXTINF:-1,SPO: FOX Sports 1 (UK)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/3517
+#EXTINF:-1,SPO: Bein Sports 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2563
+#EXTINF:-1,SPO: Bein Sports 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2562
+#EXTINF:-1,SPO: Bein Sports 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2561
+#EXTINF:-1,SPO: Bein Sports 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2560
+#EXTINF:-1,SPO: Bein Sports 5 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2559
+#EXTINF:-1,SPO: Bein Sports 6 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2558
+#EXTINF:-1,SPO: Bein Sports 7 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2557
+#EXTINF:-1,SPO: Bein Sports 8 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2556
+#EXTINF:-1,SPO: Bein Sports 9 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2555
+#EXTINF:-1,SPO: Bein Sports 10 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2554
+#EXTINF:-1,SPO: Bein Sports 11 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2553
+#EXTINF:-1,SPO: Bein Sports 12 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2552
+#EXTINF:-1,SPO: Bein Sports 1 FR HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2600
+#EXTINF:-1,SPO: Bein Sports 3 FR HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2602
+#EXTINF:-1,SPO: Bein Sports 2 FR HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2601
+#EXTINF:-1,SPO: Ad Sport 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2551
+#EXTINF:-1,SPO: Ad Sport 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2550
+#EXTINF:-1,SPO: Ad Sport 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2549
+#EXTINF:-1,SPO: Ad Sport 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2548
+#EXTINF:-1,SPO: Ad Sport 5
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2547
+#EXTINF:-1,SPO: Sport 1 HD (SLO)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4641
+#EXTINF:-1,SPO: Sport 2 HD (SLO)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4640
+#EXTINF:-1,SPO: Sport 3 HD (SLO)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4639
+#EXTINF:-1,SPO: Arena Sport 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4630
+#EXTINF:-1,SPO: Arena Sport 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4631
+#EXTINF:-1,SPO: Super Sport 1 (ALB)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4634
+#EXTINF:-1,SPO: Super Sport 2 (ALB)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4633
+#EXTINF:-1,SPO: Super Sport 3 (ALB)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4632
+#EXTINF:-1,SPO: Super Sport Kosova 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4642
+#EXTINF:-1,SPO: Super Sport Kosova 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4643
+#EXTINF:-1,SPO: Tring Sport 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4638
+#EXTINF:-1,SPO: Tring Sport 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4637
+#EXTINF:-1,SPO: Tring Sport 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4636
+#EXTINF:-1,SPO: Tring Sport 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4635
+#EXTINF:-1,DE: EUROSPORT HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10516
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10517
+#EXTINF:-1,DE: EUROSPORT 2 EXTRA HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10518
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/673
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/672
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/671
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/670
+#EXTINF:-1,DE: Sky Sport News HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/674
+#EXTINF:-1,DE: Sport Digital HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/654
+#EXTINF:-1,DE: sportdigital HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14177
+#EXTINF:-1,DE: Sport1  HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/12366
+#EXTINF:-1,DE: Sport 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/12365
+#EXTINF:-1,DE: Sport1+  HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/656
+#EXTINF:-1,DE: Sport1 US HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/655
+#EXTINF:-1,UK: SKY Sports Golf HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4456
+#EXTINF:-1,UK: Premiere Sport HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4455
+#EXTINF:-1,UK: Sky Sports Action HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4466
+#EXTINF:-1,UK: SKY Sports Mix HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4465
+#EXTINF:-1,UK: SKY Sports Darts HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4464
+#EXTINF:-1,UK: SKY Sports Main Event HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4463
+#EXTINF:-1,UK: SKY Sports Premir HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4462
+#EXTINF:-1,UK: SKY SPORTS F1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4461
+#EXTINF:-1,UK: SKY SPORTS NEWS HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4460
+#EXTINF:-1,UK: Motors TV
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4454
+#EXTINF:-1,UK: Racing-HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4451
+#EXTINF:-1,UK: EIR SPORT 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8840
+#EXTINF:-1,UK: EIR SPORT 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8841
+#EXTINF:-1,UK: EUROSPORT 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8842
+#EXTINF:-1,UK: EUROSPORT 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4444
+#EXTINF:-1,UK: Box Nation
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4449
+#EXTINF:-1,UK: BT Sport 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4453
+#EXTINF:-1,UK: BT Sport 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4452
+#EXTINF:-1,UK: BT Sport 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4459
+#EXTINF:-1,UK: BT Sport Espn
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4448
+#EXTINF:-1,UK: BT Sport Extra 4
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4447
+#EXTINF:-1,GR: OTE SPORT 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9465
+#EXTINF:-1,GR: OTE SPORT 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9466
+#EXTINF:-1,GR: OTE SPORT 3
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9467
+#EXTINF:-1,GR: OTE SPORT 4
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9468
+#EXTINF:-1,GR: OTE SPORT 5
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9469
+#EXTINF:-1,GR: OTE SPORT 6
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9470
+#EXTINF:-1,GR: OTE SPORT 7
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9471
+#EXTINF:-1,GR: OTE SPORT 8
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9472
+#EXTINF:-1,EX YU: SPORTKLUB 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8779
+#EXTINF:-1,EX YU: SPORTKLUB 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8780
+#EXTINF:-1,EX YU: SPORTKLUB 3
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8781
+#EXTINF:-1,EX YU: SPORTKLUB 4
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8782
+#EXTINF:-1,EX YU: SPORTKLUB 5
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8783
+#EXTINF:-1,EX YU: SPORTKLUB 6
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8784
+#EXTINF:-1,EX YU: ARENA SPORT 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8787
+#EXTINF:-1,EX YU: ARENA SPORT 1 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8788
+#EXTINF:-1,EX YU: ARENA SPORT 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8789
+#EXTINF:-1,EX YU: ARENA SPORT 2 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8790
+#EXTINF:-1,EX YU: ARENA SPORT 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8791
+#EXTINF:-1,EX YU: ARENA SPORT 3 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8792
+#EXTINF:-1,EX YU: ARENA SPORT 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8793
+#EXTINF:-1,EX YU: ARENA SPORT 4 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8794
+#EXTINF:-1,EX YU: ARENA SPORT 5 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8795
+#EXTINF:-1,EX YU: ARENA SPORT 5 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8796
+#EXTINF:-1,ALB: TRING SPORT 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10501
+#EXTINF:-1,ALB: TRING SPORT 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10502
+#EXTINF:-1,ALB: TRING SPORT 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10503
+#EXTINF:-1,ALB: TRING SPORT 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10504
+#EXTINF:-1,ALB: Super Sport Kosova 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4793
+#EXTINF:-1,ALB: Super Sport Kosova 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4792
+#EXTINF:-1,CZ: Arena Sport
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7633
+#EXTINF:-1,CZ: Sport 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7630
+#EXTINF:-1,CZ: Eurosports 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7629
+#EXTINF:-1,CZ: Eurosports 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7628
+#EXTINF:-1,NDS: Viasat Sport Premium SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/1857
+#EXTINF:-1,NDS: Viasat Sport Sverige
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/1856
+#EXTINF:-1,RU: MATCH SPORT
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8974
+#EXTINF:-1,RU: MATCH FUTBOL 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8972
+#EXTINF:-1,RU: MATCH FUTBOL 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8973
+#EXTINF:-1,RU: NTV FOOTBALL
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8970
+#EXTINF:-1,RU: NTV FOOTBALL 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8971
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4954
+#EXTINF:-1,IN: STAR SPORTS 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4953
+#EXTINF:-1,IN: STAR SPORTS 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4952
+#EXTINF:-1,IN: STAR SPORTS 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4951
+#EXTINF:-1,CA: Sports NET Pacific HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13261
+#EXTINF:-1,CA: Sports NET West HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13260
+#EXTINF:-1,CA: sports net world hd
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13259
+#EXTINF:-1,USA: BEIN Sports HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13439
+#EXTINF:-1,USA: BEIN USA HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13423
+#EXTINF:-1,USA: FOX Sports 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13444
+#EXTINF:-1,USA: FOX Sports 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13445
+
+#EXTINF:-1,DE: ORF Sport+ HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8943.ts
+#EXTINF:-1,Ex-Yu: Arena Sport 1 4K+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10780.ts
+#EXTINF:-1,Ex-Yu: Arena Sport 2 4K+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10782.ts
+#EXTINF:-1,Ex-Yu: Arena Sport 3 4K+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10784.ts
+#EXTINF:-1,Ex-Yu: Arena Sport 4 4K+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10786.ts
+#EXTINF:-1,Ex-Yu: Arena Sport 5 4K+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10788.ts
+#EXTINF:-1,Ex-Yu: Arena Sport 6 4K+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10789.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 1 HD+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10800.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 2 HD+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10801.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 3 HD+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10802.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 4 HD+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10803.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 5 HD+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10804.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 6 HD+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10805.ts
+#EXTINF:-1,Ex-Yu: Sport Klub Golf HD+ (HR)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10806.ts
+#EXTINF:-1,Ex-Yu: Arena Sport 1 HD (RS)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10791.ts
+#EXTINF:-1,Ex-Yu: Arena Sport 2 HD (RS)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10793.ts
+#EXTINF:-1,Ex-Yu: Arena Sport 3 HD (RS)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10795.ts
+#EXTINF:-1,Ex-Yu: Arena Sport 4 HD (RS)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10797.ts
+#EXTINF:-1,Ex-Yu: Arena Sport 5 HD+ (RS)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10798.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 1 HD+ (RS)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10807.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 2 HD+ (RS)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10808.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 3 HD+ (RS)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10809.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 4 HD+ (RS)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10810.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 5 HD+ (RS)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10811.ts
+#EXTINF:-1,Ex-Yu: Sport Klub 6 HD+ (RS)
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10812.ts
+#EXTINF:-1,Ex-Yu: Eurosport 1 HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10777.ts
+#EXTINF:-1,Ex-Yu: Eurosport 2 HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10778.ts
+#EXTINF:-1,TR: Bein Sports 1 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10593.ts
+#EXTINF:-1,TR: Bein Sports 1 Extra HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10594.ts
+#EXTINF:-1,TR: Bein Sports 1 Extra 2 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10595.ts
+#EXTINF:-1,TR: Bein Sports 1 Extra 3 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10596.ts
+#EXTINF:-1,TR: Bein Sports 1 Extra 4 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10597.ts
+#EXTINF:-1,TR: Bein Sports 2 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10599.ts
+#EXTINF:-1,TR: Bein Sports 2 Extra HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10600.ts
+#EXTINF:-1,TR: Bein Sports 2 Extra 2 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10601.ts
+#EXTINF:-1,TR: Bein Sports 2 Extra 3 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10602.ts
+#EXTINF:-1,TR: Bein Sports 2 Extra 4 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10603.ts
+#EXTINF:-1,TR: Bein Sports 3 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10605.ts
+#EXTINF:-1,TR: Bein Sports 3 Extra HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10606.ts
+#EXTINF:-1,TR: Tivibu Spor 1 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10608.ts
+#EXTINF:-1,TR: Tivibu Spor 2 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10609.ts
+#EXTINF:-1,TR: Tivibu Spor 3 4K+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10610.ts
+#EXTINF:-1,TR: Tivibu Spor 4 4K+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10611.ts
+#EXTINF:-1,TR: Sport Smart HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10612.ts
+#EXTINF:-1,[TR] S Sport 4K
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10525.ts
+#EXTINF:-1,TR: A Spor 4K
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10613.ts
+#EXTINF:-1,TR: A Spor HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10614.ts
+#EXTINF:-1,TR: Eurosport 1 HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10617.ts
+#EXTINF:-1,TR: Eurosport 2 HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10618.ts
+#EXTINF:-1,TR: Fenerbahce TV HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10619.ts
+#EXTINF:-1,TR: Galatasaray TV HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10620.ts
+#EXTINF:-1,TR: Besiktas TV HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10621.ts
+#EXTINF:-1,TR: Bursaspor TV
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/10622.ts
+#EXTINF:-1,PT: Sport TV 1
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/4798.ts
+#EXTINF:-1,PT: Sport TV 2
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/4797.ts
+#EXTINF:-1,PT: Sport TV 3
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/4796.ts
+#EXTINF:-1,PT: Sport TV 4
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/4795.ts
+#EXTINF:-1,PT: Sport TV 5
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/4794.ts
+#EXTINF:-1,PT: Sporting TV
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/4793.ts
+#EXTINF:-1,PT: Benfica TV1
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/4839.ts
+#EXTINF:-1,PT: Eurosport 1
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/4826.ts
+#EXTINF:-1,PT: EuroSport 2
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/4825.ts
+#EXTINF:-1,RO: Digi Sport 2
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/7458.ts
+#EXTINF:-1,RO: Digi Sport 3
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/7459.ts
+#EXTINF:-1,RO: Digi Sport 4
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/7460.ts
+#EXTINF:-1,BG: Diema Sport HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/11371.ts
+#EXTINF:-1,BG: Diema Sport 2 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/11372.ts
+#EXTINF:-1,BG: Nova Sport HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/11373.ts
+#EXTINF:-1,BG: Sport+ HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/11374.ts
+#EXTINF:-1,PL: Canal+ Sport HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8466.ts
+#EXTINF:-1,PL: Canal+ Sport 2 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8467.ts
+#EXTINF:-1,PL: Eleven Sport 1 4K+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8501.ts
+#EXTINF:-1,PL: Eleven Sport 2 4K+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8502.ts
+#EXTINF:-1,IT: Rai Sport+  4K+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8670.ts
+#EXTINF:-1,IT: Rai Sport HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8671.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8723.ts
+#EXTINF:-1,IT: Sport Italia HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8726.ts
+#EXTINF:-1,IT: Eurosport 1 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8724.ts
+#EXTINF:-1,IT: Eurosport 2 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8725.ts
+#EXTINF:-1,IT: Inter Channel
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/8720.ts
+#EXTINF:-1,FR: Bein Sports 1 HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9329.ts
+#EXTINF:-1,FR: Bein Sports 1 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9195.ts
+#EXTINF:-1,FR: Bein Sports 2 HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9330.ts
+#EXTINF:-1,FR: Bein Sports 2 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9196.ts
+#EXTINF:-1,FR: Bein Sports 3 HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9331.ts
+#EXTINF:-1,FR: Bein Sports 3 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9197.ts
+#EXTINF:-1,FR: Bein Sports 4 Max  HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9198.ts
+#EXTINF:-1,FR: Bein Sports 5 Max  HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9199.ts
+#EXTINF:-1,FR: Bein Sports 6 Max HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9200.ts
+#EXTINF:-1,FR: Bein Sports 7 Max HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9201.ts
+#EXTINF:-1,FR: Bein Sports 8 Max HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9202.ts
+#EXTINF:-1,FR: Bein Sports 9 Max HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9203.ts
+#EXTINF:-1,FR: Bein Sports 10 Max HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9204.ts
+#EXTINF:-1,FR: Info Sports HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9188.ts
+#EXTINF:-1,FR: Eurosport 1 HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9189.ts
+#EXTINF:-1,FR: Eurosport 2 HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9190.ts
+#EXTINF:-1,FR: AB Moteur HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/9187.ts
+#EXTINF:-1,ES: Bein Sports
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/19252.ts
+#EXTINF:-1,ES: Bein Sports 4K+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/19250.ts
+#EXTINF:-1,ES: Bein Sports Ñ HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/19310.ts
+#EXTINF:-1,ES: Bein Sprots HD+
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/19251.ts
+#EXTINF:-1,GR: Cosmote Sport 1 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/18781.ts
+#EXTINF:-1,GR: Cosmote Sport 2 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/18782.ts
+#EXTINF:-1,GR: Cosmote Sport 3 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/18783.ts
+#EXTINF:-1,GR: Cosmote Sport 4 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/18784.ts
+#EXTINF:-1,GR: Cosmote Sport 5 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/18785.ts
+#EXTINF:-1,GR: Cosmote Sport 6 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/18786.ts
+#EXTINF:-1,GR: Cosmote Sport 7 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/18787.ts
+#EXTINF:-1,GR: Cosmote Sport 8 HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/18788.ts
+#EXTINF:-1,GR: Cosmote Sport Highlights HD
+http://123iptv.nl:88/live/king-box/jkfiojdfisdjkf49t/18817.ts
+
+#EXTINF:-1,SKY SPORT 24 HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/1646
+#EXTINF:-1,SKY SPORT 1 HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/1647
+#EXTINF:-1,SKY SPORT FOOTBALL HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/1649
+#EXTINF:-1,SKY SPORT ARENA HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/1648
+#EXTINF:-1,SKY SPORT GOLF HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/54356
+#EXTINF:-1,SKY SPORT NBA HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/1650
+#EXTINF:-1,SKY SPORT PLUS HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/1651
+#EXTINF:-1,SKY SPORT MIX HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/26164
+#EXTINF:-1,SKY SPORT F1 HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/1652
+#EXTINF:-1,PL: Eleven Sports 1 HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/55521
+#EXTINF:-1,PL: Eleven Sports 2 HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/55520
+#EXTINF:-1,PL: Eleven Sports 3 HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/55519
+#EXTINF:-1,PL: Eleven Sports 4
+http://tvrocket.co:8000/Cicciocorriere/Corriere/55518
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://tvrocket.co:8000/Cicciocorriere/Corriere/55517
+
+
+
+#EXTINF:-1,BEIN SPORTS 1 720P
+http://yasiptv.com:8080/live/test/test/58.ts
+#EXTINF:-1,BEIN SPORTS 2 720P
+http://yasiptv.com:8080/live/test/test/59.ts
+#EXTINF:-1,BEIN SPORTS 3 720P
+http://yasiptv.com:8080/live/test/test/60.ts
+#EXTINF:-1,BEIN SPORTS 4 720P
+http://yasiptv.com:8080/live/test/test/61.ts
+#EXTINF:-1,BEIN SPORTS 5 720P
+http://yasiptv.com:8080/live/test/test/62.ts
+#EXTINF:-1,BEIN SPORTS 6 720P
+http://yasiptv.com:8080/live/test/test/63.ts
+#EXTINF:-1,BEIN SPORTS 7 720P
+http://yasiptv.com:8080/live/test/test/64.ts
+#EXTINF:-1,BEIN SPORTS 8 720P
+http://yasiptv.com:8080/live/test/test/65.ts
+#EXTINF:-1,BEIN SPORTS 9 720P
+http://yasiptv.com:8080/live/test/test/66.ts
+#EXTINF:-1,BEIN SPORTS 10 720P
+http://yasiptv.com:8080/live/test/test/67.ts
